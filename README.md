@@ -1,2 +1,2 @@
-# tecamino-dma
-Data Manager Agent (DMA)
+# tecamino-dbm
+Database Manager (DBM)
